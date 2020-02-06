@@ -1,2 +1,3 @@
 # ma24-ex1
-ex 1 yo
+premier exercices 
+apprendre à utiliser Git 
