@@ -1,4 +1,8 @@
 Jean-Paul
 Peon
 
+<<<<<<< HEAD
 hello it's jean-paul
+=======
+hello it's me jean-kevin
+>>>>>>> jean-kevin
